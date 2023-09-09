@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\File;
 
 class teamcontroller extends Controller
 {
-    //
+    
     function admin_addteam(request $req)
     {
        

@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Auth;
 use App\Models\user;
 class profilecontroller extends Controller
 {
-    //
+    
 
 
     // ---------------------------ADMIN-----------------------------------

@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\Models\user;
 class editcontroller extends Controller
 {
-    //
+
     
 
     function profile_edit($id)
