@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class passwordcontroller extends Controller
 {
    function  adminupdatepassword(Request $req){
-
+// 
     $req->validate([
         'oldpassword' => 'required',
         'newpassword' => 'required',

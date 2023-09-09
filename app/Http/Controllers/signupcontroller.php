@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\File;
 class signupcontroller extends Controller
 {
     
-    
+    // 
     public  function team_signuppage(request $req){
 
         $req->validate([

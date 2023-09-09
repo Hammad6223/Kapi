@@ -12,3 +12,6 @@ class post_attachment extends Model
   
     use HasFactory;
 }
+
+
+// 
